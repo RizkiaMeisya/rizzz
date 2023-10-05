@@ -1,0 +1,30 @@
+// alert('heyooo')
+
+
+// prompt('masukan usia anda')
+// let usia = 30
+// usia =35
+// console.log('eyoooo usia kamu adalah ' + usia )
+// alert('usia kamu adalah ' + usia)
+
+// let usia = prompt('berapa usia kamu?')
+// alert('usia anda adalah ' + usia)
+
+let nama = 'Rizkia' //tipe string
+let usia = 30 //tipe integer number
+let tinggiBadan = 173.5 //tipe float
+let beratBadan
+let pet = null
+
+beratBadan = 40
+
+// if(pet == null)
+// {
+//     pet = "belum punya"
+// }else{
+//     pet = "sudah punya"
+// }
+
+alert(
+    `nama saya adalah ${nama} usia saya adalah ${usia} tinggi badan saya adalah ${tinggiBadan}cm, berat badan saya ${beratBadan}kg dan pet saya ${pet}`
+    )
